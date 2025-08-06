@@ -1,0 +1,19 @@
+What Is Software ?
+
+1. Definition :
+    - Software is a set of instructions, data, or programs used to operate computers and perform specific tasks.
+    - It is intangible and enables hardware to function.
+
+2. Types of Software:
+    a) System Software:
+        - Definition: Software that manages and controls computer hardware so that application software can function.
+        - Example: Operating Systems (Windows, Linux, macOS)
+    
+    b) Application Software:
+        - Definition: Software designed to help users perform specific tasks.
+        - Example: Microsoft Word (for document editing), Adobe Photoshop (for image editing)
+    
+    c) Utility Software:
+        - Definition: Software that helps to maintain, analyze, and optimize computer performance.
+        - Example: Antivirus software, Disk Cleanup tools
+

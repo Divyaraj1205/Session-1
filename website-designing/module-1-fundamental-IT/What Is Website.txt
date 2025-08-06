@@ -1,0 +1,44 @@
+What Is Website ?
+
+Defination:
+
+A website is a collection of web pages accessible via the internet, usually with a common domain name.
+
+Types of Websites:
+
+1. Static Website
+    - Content doesn't change often.
+    - Example: Personal portfolio (e.g., johndoe.com)
+
+2. Dynamic Website
+    - Content updates automatically or via user interaction.
+    - Example: News site (e.g., cnn.com)
+
+3. E-commerce Website
+    - Used for buying/selling products online.
+    - Example: Amazon.com
+
+4. Blog
+    - Regularly updated articles or posts.
+    - Example: medium.com
+
+5. Social Media Website
+    - Connects people, allows sharing and interaction.
+    - Example: facebook.com
+
+6. Educational Website
+    - Provides learning resources.
+    - Example: khanacademy.org
+
+7. Portfolio Website
+    - Showcases work or projects.
+    - Example: behance.net
+
+For recognize: 
+- Static: Looks same every visit.
+- Dynamic: Changes with time or user actions.
+- E-commerce: Has products and cart.
+- Blog: Has posts/articles.
+- Social Media: User profiles, posts, comments.
+- Educational: Courses, tutorials.
+- Portfolio: Projects, achievements.

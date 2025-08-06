@@ -1,0 +1,4 @@
+What IS SEO ?
+
+Defination :
+SEO stands for Search Engine Optimization. It is the process of improving a website's visibility in search engine results pages (SERPs) to attract more organic (non-paid) traffic. SEO involves optimizing website content, structure, and technical elements to make it easier for search engines like Google to understand and rank the site higher for relevant keywords. Key aspects of SEO include keyword research, on-page optimization, link building, and improving site speed and mobile usability.

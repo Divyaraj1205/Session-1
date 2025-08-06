@@ -1,0 +1,22 @@
+What Is Domain ?
+
+Domain Definition:
+A domain is a distinct area of knowledge, activity, or control. In computing, a domain often refers to a group of computers and resources on a network that are administered as a unit with common rules and procedures.
+
+Types of Domains:
+
+1. Internet Domain:
+    - Definition: A unique name that identifies a website on the internet.
+    - Example: google.com
+
+2. Mathematical Domain:
+    - Definition: The set of all possible input values (independent variable) for a function.
+    - Example: For f(x) = x^2, the domain is all real numbers.
+
+3. Network Domain:
+    - Definition: A collection of computers and devices on a network that are managed as a single entity.
+    - Example: A company’s internal network domain like "company.local".
+
+4. Business Domain:
+    - Definition: A specific area of business or industry.
+    - Example: Healthcare domain, Finance domain.

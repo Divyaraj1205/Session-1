@@ -1,0 +1,36 @@
+What Is SRS ?
+
+SRS Means Software Requirements Specification 
+
+Definition:
+- SRS is a detailed document that describes the software system to be developed, including its functional and non-functional requirements.
+- It serves as a contract between the client and the developer.
+
+Example:
+- For a Library Management System, the SRS would specify requirements like:
+    - The system must allow users to search for books.
+    - The system must track borrowed and returned books.
+
+Types of Requirements in SRS:
+1. Functional Requirements
+     - Describe what the system should do.
+     - Example: The system should allow users to log in.
+
+2. Non-Functional Requirements
+     - Describe how the system performs its functions.
+     - Example: The system should respond to user queries within 2 seconds.
+
+3. Interface Requirements
+     - Specify how the system interacts with other systems or users.
+     - Example: The system should integrate with the university database.
+
+4. Performance Requirements
+     - Define performance criteria.
+     - Example: The system should support 100 simultaneous users.
+
+5. Security Requirements
+     - Specify security measures.
+     - Example: User data must be encrypted.
+
+Summary:
+- SRS is essential for clear communication and successful software development.

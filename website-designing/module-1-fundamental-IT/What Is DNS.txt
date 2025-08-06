@@ -1,0 +1,18 @@
+What is DNS ?
+
+DNS Means Domain Name System
+
+1. Definition:
+
+    - DNS is a system that translates human-readable domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network.
+
+2. Example:
+
+    - When you type "www.google.com" in your browser, DNS converts it to an IP address so your computer can connect to Google's servers.
+
+3. Types of DNS:
+
+    - a) Recursive DNS Server: Resolves domain names for client devices by querying other DNS servers.
+    - b) Authoritative DNS Server: Provides answers to queries about domains it is responsible for.
+    - c) Root DNS Server: The top-level DNS server that directs queries to appropriate TLD servers.
+    - d) TLD (Top-Level Domain) DNS Server: Handles queries for domains under a specific top-level domain (like .com, .org).

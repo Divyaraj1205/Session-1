@@ -1,0 +1,22 @@
+What Is URL ?
+
+URL Means Uniform Resource Locator
+
+Definition:
+    - A URL is an address used to identify and locate a resource on the Internet.
+    - It tells where the resource is and how to access it (protocol).
+
+1. Types:
+    i) Absolute URL: Specifies the complete address (including protocol, domain, etc.).
+      Example: https://www.example.com/page.html
+    ii) Relative URL: Specifies the address relative to the current location.
+      Example: /images/photo.jpg
+
+2. Example (Parts of a URL):
+    - Protocol: https://
+    - Domain: www.example.com
+    - Path: /docs/index.html
+    - Query parameters: ?id=123&sort=asc
+
+3. Full Example:
+    - https://www.example.com/docs/index.html?id=123&sort=asc

@@ -1,0 +1,4 @@
+What Is SE ?
+
+Defination :
+Software Engineering (SE) is the systematic application of engineering principles to the development, operation, and maintenance of software systems. It involves processes, methods, and tools for designing, building, testing, and managing software to ensure quality, reliability, and efficiency.

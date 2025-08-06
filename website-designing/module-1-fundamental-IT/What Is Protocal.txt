@@ -1,0 +1,24 @@
+What Is Protocol ?
+
+Definition:
+A protocol is a set of rules or standards that define how data is transmitted and received between devices in a network. Protocols ensure proper communication, data integrity, and security.
+
+Types of Protocols:
+1. Communication Protocols
+    - Example: HTTP (HyperText Transfer Protocol)
+      Used for transferring web pages on the internet.
+
+2. Network Protocols
+    - Example: TCP/IP (Transmission Control Protocol/Internet Protocol)
+      Used for reliable data transmission over networks.
+
+3. Security Protocols
+    - Example: SSL/TLS (Secure Sockets Layer/Transport Layer Security)
+      Used for secure communication over the internet.
+
+4. File Transfer Protocols
+    - Example: FTP (File Transfer Protocol)
+      Used for transferring files between computers.
+
+Example:
+When you visit a website, your browser uses the HTTP protocol to request and receive web pages from the server.
