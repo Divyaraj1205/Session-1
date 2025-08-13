@@ -1,0 +1,44 @@
+what is html ? 
+
+html stands for hypertext markup language 
+html first time released in 1986 by tim berner lee 
+html is not any language it is a markup language 
+html interact with web broswers
+html is a case in-senstive language
+examples : <p></p>  | <P></p>
+html file extension .html or .htm 
+
+structures or skleton or boiler plate of html ..
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <link rel="stylesheet" href="" type="text/css" />
+  <link rel="icon" href="" type="text/x-icon" />
+  <meta charset="utf-8" />
+  <style></style>
+  <script type="text/javascript"></script>
+  <noscript></noscript>
+
+</head>
+<body>
+
+</body>
+</html>
+
+what is html tag ? 
+ html tags are paired and non-paired 
+ html tags provides webpages structures 
+ html defined tags inside of <> brackets
+  
+ a) paired tag :  
+     tags are almost paired meanse start and need to closed i.e called paired 
+
+     ex. <p></p>  | <h1></h1> 
+
+ b) non-paired tags 
+
+     tags called non-paired meanse start but need to closed i.e called non-paired
+
+     ex. <br> | <hr> | <input> | <img> | <p> | <meta> | <link>  
