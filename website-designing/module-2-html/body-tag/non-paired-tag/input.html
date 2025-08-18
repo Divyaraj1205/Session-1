@@ -3,25 +3,109 @@
 <head>
 <meta charset="utf-8">
 <title>Janmashtami Registration</title>
+<style>
+  body {
+    font-family: Arial;
+    background-color: #87ceeb; /* sky blue */
+    text-align: center;
+    padding: 30px;
+  }
+
+  h2 {
+    color: #003366; /* dark blue */
+  }
+
+  form {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 2px solid #003366;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: left;
+    width: 300px;
+  }
+
+  label {
+    font-weight: bold;
+    color: #003366;
+  }
+
+  input, select, textarea {
+    margin: 8px 0;
+    padding: 8px;
+    width: 95%;
+    border: 1px solid #003366;
+    border-radius: 5px;
+  }
+
+  textarea {
+    resize: none;
+  }
+
+  input[type="submit"], input[type="reset"] {
+    width: auto;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    border: none;
+  }
+
+  input[type="submit"] {
+    background-color: #0066cc; /* blue */
+    color: white;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #004c99;
+  }
+
+  input[type="reset"] {
+    background-color: #009999; /* teal */
+    color: white;
+  }
+
+  input[type="reset"]:hover {
+    background-color: #007777;
+  }
+</style>
 </head>
-<body style="font-family: Arial, sans-serif; background-color:#fceabb; text-align:center; padding:30px;">
+<body>
 
-<h2 style="color:#4a2c82;">🌸 Janmashtami Event Form 🌸</h2>
+<h2>🌸 Janmashtami Event Form 🌸</h2>
 
-<form style="background:#fff; padding:20px; border-radius:10px; display:inline-block;">
+<form>
+  <fieldset>
+    <legend style="color:#003366;">Personal Details</legend>
 
-  <input type="text" name="name" placeholder="Your Name" required style="margin:8px; padding:8px;"><br>
-  
-  <input type="email" name="email" placeholder="Your Email" required style="margin:8px; padding:8px;"><br>
-  
-  <select name="event" style="margin:8px; padding:8px;">
-    <option value="bhajan">Bhajan</option>
-    <option value="dahi_handi">Dahi Handi</option>
-    <option value="puja">Midnight Puja</option>
-  </select><br>
-  
-  <input type="submit" value="Register 🙏" style="background:#4a2c82; color:#fff; padding:8px 16px; border:none; border-radius:5px; cursor:pointer;">
+    <label for="name">Full Name:</label><br>
+    <input type="text" id="name" name="name" placeholder="Enter your name" required><br>
 
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" placeholder="Enter your email" required><br>
+
+    <label for="phone">Phone Number:</label><br>
+    <input type="text" id="phone" name="phone" placeholder="Enter your phone" required><br>
+
+    <label for="address">Address:</label><br>
+    <textarea id="address" name="address" rows="3" placeholder="Enter your address" required></textarea>
+  </fieldset>
+  <br> 
+  <fieldset>
+    <legend style="color:#003366;">Select Event</legend>
+    <select name="event" required>
+      <option value="" disabled selected>Select an event</option>
+      <option value="bhajan">Bhajan</option>
+      <option value="dahi_handi">Dahi Handi</option>
+      <option value="midnight_puja">Midnight Puja</option>
+    </select>
+  </fieldset>
+
+  <div style="text-align:center;">
+    <input type="submit" value="Register">
+    <input type="reset" value="Reset">
+  </div>
 </form>
 
 </body>
